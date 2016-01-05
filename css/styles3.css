@@ -1,0 +1,24 @@
+*{
+  font-family: arial;
+}
+
+p {
+  color: brown;
+  font-size: 125%;
+  font-style: oblique;
+}
+
+h1 {
+  text-align: center;
+  color: brown;
+  background-color: black;
+}
+
+h2{
+  color: orange;
+}
+
+li{
+  line-height: 1;
+  color: tan;
+}
