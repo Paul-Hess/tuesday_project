@@ -1,0 +1,23 @@
+*{
+  font-family: sans-serif;
+}
+
+p {
+  color: brown;
+  font-size: 130%;
+  font-style: oblique;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  background-color: black;
+}
+
+h2{
+  color: orange;
+}
+
+li{
+  line-height: .9;
+}
